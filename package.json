@@ -1,7 +1,8 @@
 {
   "name": "dev-books",
+  "private": true,
+  "sideEffects": false,
   "type": "module",
-  "version": "0.0.1",
   "scripts": {
     "astro": "astro",
     "build": "astro check && astro build",
